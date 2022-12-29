@@ -1,0 +1,18 @@
+.banner{
+    padding-top: 100px;
+    width:100%;
+    height:600px;
+    background-image: 
+   linear-gradient(to bottom, rgba(217,167,199,0.6), 
+  rgba(255,252,220,0.6)),
+  url("https://images.unsplash.com/photo-1625777719130-0a8e07086117?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80");
+  }
+  
+  .quote{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 50px;
+    color: grey;
+    padding-left: 20px;
+    border-left: 10px solid #fff;
+  }
